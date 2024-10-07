@@ -60,7 +60,7 @@ Como influenciadora, Liat não apenas exibe as últimas tendências de moda, mas
 
 A fisionomia de Liat foi definida com a tecnologia **ComfyUI** ([ComfyUI GitHub](https://github.com/comfyanonymous/ComfyUI)), misturando as características faciais de seus pais, com **77%** de semelhança com seu pai e **23%** de semelhança com sua mãe, resultando em uma aparência única e encantadora.
 
-Parte dos testes podem dos scripts pode ser encontrados neste [MyConfyUI](https://github.com/EuFreela/myComfyUIs).
+Parte dos scripts poderão ser encontrados neste projeto: [MyConfyUI](https://github.com/EuFreela/myComfyUIs).
 
 ---
 
