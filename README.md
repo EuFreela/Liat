@@ -42,7 +42,7 @@ Liat está constantemente atualizando seus conhecimentos sobre **Marketing Digit
 
 ## 🧬 BIO
 
-**Liat Silva Fernandes dos Santos** é uma jovem de 25 anos, modelo e estudante de **Moda e Marketing**, que traz um frescor único ao mundo digital. Seu nome, que significa "minha árvore", reflete sua essência forte e enraizada, ao mesmo tempo em que cresce e se expande em novas direções. Com uma paixão intensa por moda e um talento nato para o marketing, Liat combina seus conhecimentos acadêmicos com um estilo pessoal distinto, criando conteúdo que inspira e engaja seus seguidores.
+**Liat Silva Fernandes dos Santos** é uma jovem de 25 anos, modelo e estudante de **Moda e Marketing**, que traz um frescor único ao mundo digital. Seu nome, tem origem hebraica **(לִיאַת)** que significa "minha árvore", reflete sua essência forte e enraizada, ao mesmo tempo em que cresce e se expande em novas direções. Com uma paixão intensa por moda e um talento nato para o marketing, Liat combina seus conhecimentos acadêmicos com um estilo pessoal distinto, criando conteúdo que inspira e engaja seus seguidores.
 
 Nascida em **Passos**, no dia **08 de fevereiro de 2024**, Liat cresceu em um ambiente que valorizava a criatividade e a expressão pessoal. Filha de **Lameck Fernandes** e **Viviana dos Santos**, ela herdou de seus pais os valores de autenticidade e inovação. Seu pai, um multi-instrumentista, tem ensinado Liat tudo sobre música desde que ela tinha 7 anos de idade. Hoje, Liat desenvolveu habilidades como **musicista**, **produtora musical** e **cantora**, além de sua carreira na moda e marketing.
 
