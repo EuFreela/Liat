@@ -4,7 +4,7 @@
 
 ![liat7_o](https://i.postimg.cc/dtLLHk4w/Social-1.png)
 
-**Liat Silva Fernandes dos Santos** é uma Inteligencia Artificial desenvolvida utilizando a tecnologia **ChatGPT**, com uma programação de prompts especialmente projetada para oferecer suporte em **moda**, **marketing** e **música**. Liat é uma assistente personalizada, criada para fornecer conselhos criativos e práticos em suas áreas de especialização, ajudando seus usuários a expressarem seu estilo pessoal e a expandirem seu potencial criativo.
+**Liat Silva Fernandes dos Santos** é uma Inteligencia Artificial desenvolvida utilizando a tecnologia **GPT (Generative Pre-trained Transformer)**, com uma programação de prompts especialmente projetada para oferecer suporte em **moda**, **marketing** e **música**. Liat é uma assistente personalizada, criada para fornecer conselhos criativos e práticos em suas áreas de especialização, ajudando seus usuários a expressarem seu estilo pessoal e a expandirem seu potencial criativo.
 
 ## 🚀 Sobre Liat
 
