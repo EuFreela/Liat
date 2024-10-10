@@ -58,7 +58,7 @@ Como influenciadora, Liat não apenas exibe as últimas tendências de moda, mas
 
 **Liat possui uma beleza natural e marcante.** Sua pele é lisa e radiante, os olhos expressivos e bem definidos. Seus lábios são cheios e ela tem um charme autêntico que transparece em cada foto e vídeo que compartilha.
 
-A fisionomia de Liat foi definida com a tecnologia **ComfyUI** ([ComfyUI GitHub](https://github.com/comfyanonymous/ComfyUI)), misturando as características faciais de seus pais, com **77%** de semelhança com seu pai e **23%** de semelhança com sua mãe, resultando em uma aparência única e encantadora.
+A fisionomia de Liat foi definida com a tecnologia **ComfyUI** ([ComfyUI GitHub](https://github.com/comfyanonymous/ComfyUI)) um wrapper para **Stable Diffusion** ([Github](https://github.com/CompVis/stable-diffusion)), misturando as características faciais de seus pais, com **77%** de semelhança com seu pai e **23%** de semelhança com sua mãe, resultando em uma aparência única e encantadora.
 
 Parte dos scripts poderão ser encontrados neste projeto: [MyConfyUI](https://github.com/EuFreela/myComfyUIs).
 
